@@ -1,16 +1,16 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- =============== HERO SECTION =============== -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=HANAMARIAM%20SEBSBEW&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Practical+Software+Solutions;Learning+%7C+Building+%7C+Growing;Passionate+About+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Practical+Software+Solutions;Learning+%7C+Building+%7C+Growing;Passionate+About+Technology" />
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- =============== ABOUT ME =============== -->
 
 ## 👨‍💻 About Me
 
@@ -21,8 +21,7 @@ field: Software Engineering
 
 interests:
   - Full-Stack Development
-  - Software Engineering
-  - Machine Learning
+  - Machine Learning and AI
   - Problem Solving
   - Collaborative Projects
 
@@ -48,7 +47,7 @@ goal: Build practical and impactful software solutions
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- =============== TECHNOLOGIES =============== -->
 
 ## 🛠️ Technologies & Tools
 
@@ -70,7 +69,7 @@ goal: Build practical and impactful software solutions
 <img src="https://skillicons.dev/icons?i=php,laravel,java" />
 </p>
 
-### Database & Tools
+### Database & Development Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
@@ -78,7 +77,7 @@ goal: Build practical and impactful software solutions
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- =============== FEATURED PROJECTS =============== -->
 
 ## 🚀 Featured Projects
 
@@ -88,7 +87,9 @@ goal: Build practical and impactful software solutions
 
 <h3>🚌 Swift-Bus</h3>
 
-<p>Collaborative transport reservation and ticketing management system designed to organize bus booking and transport operations.</p>
+<p>
+A collaborative transport reservation and ticketing management system designed to organize bus booking and transport operations.
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -100,11 +101,14 @@ goal: Build practical and impactful software solutions
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>🎓 Student Dropout Prediction</h3>
 
-<p>Machine learning classification project predicting student dropout risks using academic and behavioral data.</p>
+<p>
+A machine learning classification project predicting student dropout risks using academic and behavioral data.
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -123,7 +127,9 @@ goal: Build practical and impactful software solutions
 
 <h3>🏦 Banking System Java GUI</h3>
 
-<p>Desktop banking application with a graphical user interface for managing account transactions and banking operations.</p>
+<p>
+A desktop banking application with a graphical user interface for managing account transactions and banking operations.
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -135,11 +141,14 @@ goal: Build practical and impactful software solutions
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>💡 Future Projects</h3>
 
-<p>Exploring new technologies and developing practical applications to strengthen my software engineering skills.</p>
+<p>
+Exploring new technologies and developing practical applications to strengthen my software engineering skills.
+</p>
 <p>
 <img src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square" />
 <img src="https://img.shields.io/badge/Innovation-0891B2?style=flat-square" />
@@ -151,7 +160,7 @@ goal: Build practical and impactful software solutions
 
 ---
 
-<!-- ================= GITHUB STATISTICS ================= -->
+<!-- =============== GITHUB ANALYTICS =============== -->
 
 ## 📊 GitHub Analytics
 
@@ -169,7 +178,7 @@ goal: Build practical and impactful software solutions
 
 ---
 
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+<!-- =============== CONTRIBUTION ACTIVITY =============== -->
 
 ## 📈 Contribution Activity
 
@@ -181,23 +190,25 @@ goal: Build practical and impactful software solutions
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- =============== CONNECT =============== -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/hanamariam1dev">
+<a href="https://github.com/hanamariam1dev" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/hanamariam-sebsbew-6713923b4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
+
+<!-- =============== FOOTER =============== -->
 
 <div align="center">
 
