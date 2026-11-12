@@ -25,19 +25,6 @@ interests:
   - Problem Solving
   - Collaborative Projects
 
-currently_learning:
-  - Java
-  - PHP
-  - HTML
-  - CSS
-  - JavaScript
-  - Laravel
-  - Vue.js
-  - Project Management
-  - Data Structures
-  - Database Systems
-  - Computer Networking
-
 goal: Build practical and impactful software solutions
 - 💻 Interested in designing and developing full-stack applications.
 - 🚀 Building practical projects to strengthen my development skills.
@@ -162,22 +149,27 @@ Exploring new technologies and developing practical applications to strengthen m
 
 <!-- =============== GITHUB ANALYTICS =============== -->
 
+<!-- GITHUB ANALYTICS -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hanamariam1dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img src="./profile/stats.svg"
+     alt="GitHub Statistics"
+     width="49%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanamariam1dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="./profile/top-langs.svg"
+     alt="Most Used Languages"
+     width="49%">
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=hanamariam1dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=hanamariam1dev&theme=tokyonight&hide_border=true"
+     alt="GitHub Contribution Streak"
+     width="75%">
 
 </div>
-
----
-
 <!-- =============== CONTRIBUTION ACTIVITY =============== --
 
 <!-- CONTRIBUTION SNAKE -->
