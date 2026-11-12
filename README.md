@@ -182,31 +182,25 @@ Exploring new technologies and developing practical applications to strengthen m
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<!-- CONTRIBUTION SNAKE -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanamariam1dev&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
-
-</div>
-
----
-
-<!-- =============== CONNECT =============== -->
-
-## 🤝 Let's Connect
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/hanamariam1dev" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hanamariam1dev/hanamariam1dev/output/github-contribution-grid-snake-dark.svg">
 
-<a href="https://www.linkedin.com/in/hanamariam-sebsbew-6713923b4/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hanamariam1dev/hanamariam1dev/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/hanamariam1dev/hanamariam1dev/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
 
 </div>
-
----
 
 <!-- =============== FOOTER =============== -->
 
