@@ -17,23 +17,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hello! I'm Hanamariam Sebsbew, a Software Engineering student at Wollo University with a strong interest in full-stack development and software engineering.
+I'm Hanamariam Sebsbew, a Software Engineering student at Wollo University with a strong interest in full-stack development and software engineering.
 
 I enjoy transforming ideas into practical software solutions, exploring new technologies, and collaborating on projects that solve real-world problems.
 
-- 💻 Interested in full-stack application development.
-- 🚀 Building projects to strengthen my practical programming skills.
-- 🧠 Improving my problem-solving and data structure knowledge.
-- 🤝 Enjoy collaborating and working with development teams.
-- 🌱 Continuously learning and growing as a developer.
+- Interested in full-stack application development.
+-  Building projects to strengthen my practical programming skills.
+-  Improving my problem-solving and data structure knowledge.
+-  Enjoy collaborating and working with development teams.
+-  Continuously learning and growing as a developer.
 
 Current focus: Strengthening my backend and frontend development skills while improving my software engineering foundations.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Programming Languages
 
@@ -71,13 +71,13 @@ Current focus: Strengthening my backend and frontend development skills while im
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🚌 Swift-Bus</h3>
+<h3>Swift-Bus</h3>
 
 <p>
 A collaborative transport reservation and ticketing management system designed to organize bus booking and transport operations.
@@ -94,7 +94,7 @@ A collaborative transport reservation and ticketing management system designed t
 
 <td width="50%" valign="top">
 
-<h3>🎓 Student Dropout Prediction</h3>
+<h3> Student Dropout Prediction</h3>
 
 <p>
 A machine learning classification project that predicts student dropout risks using academic and behavioral data.
@@ -113,7 +113,7 @@ A machine learning classification project that predicts student dropout risks us
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏦 Banking System Java GUI</h3>
+<h3> Banking System Java GUI</h3>
 
 <p>
 A desktop banking application with a graphical user interface for managing accounts and banking transactions.
@@ -129,7 +129,7 @@ A desktop banking application with a graphical user interface for managing accou
 
 <td width="50%" valign="top">
 
-<h3>💡 What I'm Exploring</h3>
+<h3> What I'm Exploring</h3>
 
 <p>
 Developing stronger practical skills in full-stack application development, software architecture, databases, and collaborative software projects.
@@ -146,7 +146,7 @@ Developing stronger practical skills in full-stack application development, soft
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Developing stronger practical skills in full-stack application development, soft
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -184,7 +184,7 @@ Developing stronger practical skills in full-stack application development, soft
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
