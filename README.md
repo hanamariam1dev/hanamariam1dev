@@ -178,9 +178,7 @@ Exploring new technologies and developing practical applications to strengthen m
 
 ---
 
-<!-- =============== CONTRIBUTION ACTIVITY =============== -->
-
-## 📈 Contribution Activity
+<!-- =============== CONTRIBUTION ACTIVITY =============== --
 
 <!-- CONTRIBUTION SNAKE -->
 
