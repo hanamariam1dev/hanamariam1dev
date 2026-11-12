@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-name: Hanamariam Sebsbew
-role: Full-Stack Developer
-university: Wollo University
-field: Software Engineering
+name: Hanamariam Sebsbew<br>
+role: Full-Stack Developer<br>
+university: Wollo University<br>
+field: Software Engineering<br>
 
 interests:
   - Full-Stack Development
