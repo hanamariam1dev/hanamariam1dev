@@ -2,21 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=HANAMARIAM%20SEBSBEW&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Developer&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=HANAMARIAM%20SEBSBEW&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&descSize=20" width="100%" />
 
-<a href="https://github.com/hanamariam1dev">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Software+Engineering+Student;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://github.com/hanamariam1dev">
-<img src="https://komarev.com/ghpvc/?username=hanamariam1dev&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/hanamariam1dev?tab=followers">
-<img src="https://img.shields.io/github/followers/hanamariam1dev?label=FOLLOWERS&style=for-the-badge&color=0EA5E9" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Practical+Software+Solutions;Learning+%7C+Building+%7C+Growing;Passionate+About+Technology" alt="Typing SVG" />
 
 </div>
 
@@ -27,26 +15,36 @@
 ## 👨‍💻 About Me
 
 name: Hanamariam Sebsbew
-role: Software Engineering Student
+role: Full-Stack Developer
 university: Wollo University
-focus:
-  - Software Development
+field: Software Engineering
+
+interests:
   - Full-Stack Development
+  - Software Engineering
   - Machine Learning
   - Problem Solving
+  - Collaborative Projects
 
 currently_learning:
-  - Vue.js
+  - Java
+  - PHP
+  - HTML
+  - CSS
+  - JavaScript
   - Laravel
-  - Flutter
-  - Machine Learning
+  - Vue.js
+  - Project Management
+  - Data Structures
+  - Database Systems
+  - Computer Networking
 
-goal: Building practical solutions through technology
-- 🎓 Software Engineering student passionate about technology.
-- 💻 Interested in building practical and scalable software solutions.
-- 🤝 Enjoy collaborating with developers and working on team projects.
-- 🧠 Continuously improving my programming and problem-solving skills.
-- 🚀 Focused on transforming ideas into real-world applications.
+goal: Build practical and impactful software solutions
+- 💻 Interested in designing and developing full-stack applications.
+- 🚀 Building practical projects to strengthen my development skills.
+- 🤝 Enjoy teamwork, collaboration, and software project development.
+- 🧠 Focused on improving problem-solving and software engineering knowledge.
+- 🌱 Committed to continuous learning and professional growth.
 
 ---
 
@@ -57,31 +55,25 @@ goal: Building practical solutions through technology
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,php,dart" />
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css" />
 </p>
 
 ### Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind" />
 </p>
 
 ### Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,mysql" />
+<img src="https://skillicons.dev/icons?i=php,laravel,java" />
 </p>
 
-### Machine Learning & Data Science
+### Database & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
-
-### Tools & Development Environment
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
 </p>
 
 ---
@@ -135,8 +127,9 @@ goal: Building practical solutions through technology
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square" />
+<img src="https://img.shields.io/badge/Java_Swing-5382A1?style=flat-square" />
 </p>
+
 <a href="https://github.com/hanamariam1dev/Banking-System-Java-GUI">
 <b>Explore Repository →</b>
 </a>
@@ -146,11 +139,9 @@ goal: Building practical solutions through technology
 
 <h3>💡 Future Projects</h3>
 
-<p>Continuously exploring new technologies and building practical applications to strengthen my software engineering skills.</p>
-
+<p>Exploring new technologies and developing practical applications to strengthen my software engineering skills.</p>
 <p>
 <img src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Innovation-0891B2?style=flat-square" />
 </p>
 
@@ -178,13 +169,13 @@ goal: Building practical solutions through technology
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanamariam1dev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanamariam1dev&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
 
@@ -192,7 +183,7 @@ goal: Building practical solutions through technology
 
 <!-- ================= CONNECT ================= -->
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
